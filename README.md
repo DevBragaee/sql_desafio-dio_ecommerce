@@ -5,5 +5,6 @@ a proposta do modelo conceitual é apresentar ao clinte uma visao geral do seu  
 - Apatir do modelo conceitual é feito o mapeamento para o diagrama ER . Em seguida para o modelo de Relacionamento
 - Apartir do modelo de relacionamneto serao criadas as tabelas
 - Apos criadas as tabelas  ,serao criadas "querys " de acordo com necessidade do usuario
+- ## Em Building
 
 
